@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\DSA\DSA\bin\Debug\DSA.exe.config
+C:\Users\Vishal\source\repos\DSA\DSA\bin\Debug\DSA.exe
+C:\Users\Vishal\source\repos\DSA\DSA\bin\Debug\DSA.pdb
+C:\Users\Vishal\source\repos\DSA\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\DSA\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\DSA\DSA\obj\Debug\DSA.exe
+C:\Users\Vishal\source\repos\DSA\DSA\obj\Debug\DSA.pdb

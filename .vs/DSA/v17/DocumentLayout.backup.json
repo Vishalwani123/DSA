@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|c:\\users\\vishal\\source\\repos\\dsa\\dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|solutionrelative:dsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|c:\\users\\vishal\\source\\repos\\dsa\\dsa\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|solutionrelative:dsa\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|c:\\users\\vishal\\source\\repos\\dsa\\dsa\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|solutionrelative:dsa\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|c:\\users\\vishal\\source\\repos\\dsa\\dsa\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E8147E-ED8D-402C-8936-C831D93330C3}|DSA\\DSA.csproj|solutionrelative:dsa\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\Queue.cs",
+              "RelativeDocumentMoniker": "DSA\\Queue.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\Queue.cs",
+              "RelativeToolTip": "DSA\\Queue.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:21:13.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\Stack.cs",
+              "RelativeDocumentMoniker": "DSA\\Stack.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\Stack.cs",
+              "RelativeToolTip": "DSA\\Stack.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:46:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\LinkedList.cs",
+              "RelativeDocumentMoniker": "DSA\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\LinkedList.cs",
+              "RelativeToolTip": "DSA\\LinkedList.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:29:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\Program.cs",
+              "RelativeDocumentMoniker": "DSA\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\DSA\\DSA\\Program.cs",
+              "RelativeToolTip": "DSA\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:29:37.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
